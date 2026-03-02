@@ -1531,7 +1531,7 @@
                 {
                     id: 3,
                     name: "ALL CP COLLETION",
-                    price: 95,
+                    price: 85,
                     image: "https://files.catbox.moe/v6gcc8.jpeg",
                     videoPreview: "https://files.catbox.moe/kmybnf.mp4",
                     description: [
